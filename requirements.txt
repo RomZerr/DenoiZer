@@ -1,0 +1,31 @@
+# DenoiZer - Requirements
+# GUI Framework
+PySide6>=6.9.0
+
+# Image processing
+OpenImageIO>=3.0.6.1
+numpy>=2.2.0
+
+# System utilities
+psutil>=7.0.0
+
+# HTTP requests (for font downloads)
+requests>=2.31.0
+
+# Build tools (optional - for creating executables)
+cx-Freeze>=6.15.0
+
+# Standard libraries (included with Python)
+# - os
+# - sys
+# - json
+# - subprocess
+# - multiprocessing
+# - time
+# - concurrent.futures
+# - functools
+# - zipfile
+# - shutil
+# - pathlib
+# - re
+# - argparse 

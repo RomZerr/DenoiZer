@@ -1,0 +1,11 @@
+{
+  "COMPRESSION_MODE": "ZIP_COMPRESSION",
+  "RENDERMAN_PROSERVER": "C:/Program Files/Pixar/RenderManProServer-26.2",
+  "ENABLE_INTEGRATOR": false,
+  "LIGHT_GROUP_PREFIX": "LGT",
+  "ENABLE_SHADOWS": false,
+  "SHADOWS_AOV_NAME": "Ci",
+  "ENABLE_CROSSFRAME": false,
+  "USE_GPU": false,
+  "USE_GPU_PROCESSING": true
+}
